@@ -1,3 +1,4 @@
+This is the sample program for test
 
 Que.-Write a single line python code to print prime numbers between 50 and 150.
 please write the answers here only.
